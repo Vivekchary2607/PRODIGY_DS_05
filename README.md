@@ -82,16 +82,3 @@ Based on the number of casualties:
 - `README.md`: Project documentation
 
 ---
-
-## 📍 Future Scope
-
-- Integrate Machine Learning models for accident severity prediction.
-- Use real-time GPS and weather APIs for dynamic risk forecasting.
-- Deploy dashboards for public or traffic authority use.
-
----
-
-## 🙌 Acknowledgements
-
-- Dataset inspired from public safety and transportation sources.
-- Project executed as part of data science learning tasks.
